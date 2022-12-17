@@ -1,0 +1,4 @@
+開啟單張圖的話 JPG BMP PNG 都可以開啟	GIF不行
+
+要開啟多張圖時,把這"cvLoadImage"的函示裡面的參數拿掉就可以執行了
+EX: Image1=cvLoadImage("road.png");	//載入圖片 
