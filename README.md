@@ -3,6 +3,7 @@
 1. 下載 opencv 2.4.9 的版本比較穩定
 
 https://sourceforge.net/projects/opencvlibrary/files/opencv-win/2.4.9/opencv-2.4.9.exe/download 	
+
 2. 選擇C槽
 
 3. 選擇 32-bit 
